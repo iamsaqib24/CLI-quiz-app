@@ -9,5 +9,5 @@ This is my first CLI based app which i made using replit. Do you want to know, H
 
 ## Images,
 
-[](Screenshot1.png)
-[](Screenshot2.png)
+![](Screenshot1.png)
+![](Screenshot2.png)
